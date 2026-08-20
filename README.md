@@ -1,6 +1,6 @@
-# lesson
+# 概要
 テストです。
 
-#web site
+# ウェブサイト
 ## URL
 https://wt1501.github.io/lesson/
